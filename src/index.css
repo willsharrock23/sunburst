@@ -1,0 +1,29 @@
+.dropdown-menu {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.theme5 {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.612);
+}
+
+.theme4 {
+  background-color: rgba(255, 0, 0, 0.603);
+  color: rgb(255, 255, 255);
+}
+
+.theme3 {
+  background-color: rgba(237, 124, 49, 0.678);
+  color: rgb(0, 0, 0);
+}
+
+.theme2 {
+  background-color: rgba(255, 255, 0, 0.637);
+  color: rgb(0, 0, 0);
+}
+
+.theme1 {
+  background-color: rgba(112, 173, 71, 0.5);
+  color: rgb(0, 0, 0);
+}
